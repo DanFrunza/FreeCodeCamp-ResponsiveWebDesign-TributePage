@@ -1,3 +1,3 @@
 # FreeCodeCamp-ResponsiveWebDesign-TributePage
 
-![Albert Einstein Tribute Page](./TributePage.png)
+![Albert Einstein Tribute Page](./TributePageV2.png)
